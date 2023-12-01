@@ -1,0 +1,5 @@
+# Ignore experimental implementations in python
+*.py
+build
+input_example.txt
+.vscode
